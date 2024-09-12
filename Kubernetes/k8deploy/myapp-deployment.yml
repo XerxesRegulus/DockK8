@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: demobookk8s
-        image: xerxesregulus/demobook:v1
+        image: xerxesregulus/demobook:latest
         ports:
         - containerPort: 80
